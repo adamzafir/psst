@@ -1,0 +1,16 @@
+configuration,trial,backend,speech_final_seconds,first_text_seconds,complete_seconds,generations,low_power
+final-transcript,0,SpeechAnalyzer,0.998,6.475,7.369,1,true
+final-transcript,1,SpeechAnalyzer,0.651,2.527,4.067,1,true
+final-transcript,2,SpeechAnalyzer,0.236,1.989,3.014,1,true
+final-transcript,3,SpeechAnalyzer,0.293,1.883,2.876,1,true
+final-transcript,4,SpeechAnalyzer,0.253,1.788,3.250,1,true
+final-transcript,5,SpeechAnalyzer,0.224,1.784,2.781,1,true
+speculative,0,SpeechAnalyzer,0.280,5.123,6.005,3,true
+speculative,1,SpeechAnalyzer,0.589,3.602,4.654,2,true
+speculative,2,SpeechAnalyzer,0.291,0.914,1.928,3,true
+speculative,3,SpeechAnalyzer,0.055,2.236,3.080,3,true
+speculative,4,SpeechAnalyzer,1.094,4.878,5.679,2,true
+speculative,5,SpeechAnalyzer,0.233,1.318,2.316,4,true
+shipping-retest,0,SpeechAnalyzer,0.496,6.013,7.139,1,true
+shipping-retest,1,SpeechAnalyzer,0.383,3.038,4.639,1,true
+shipping-retest,2,SpeechAnalyzer,0.753,2.443,3.548,1,true
